@@ -1,0 +1,19 @@
+#+TITLE: Amazon Reviews
+
+
+A Amazon review scraping library. Defines some methods to get them reviews and dump them into CSV or JSON.
+
+Made with python + BeautifulSoup + 💕
+
+Use at your own discretion. Not maintaining it in anyway. Just a fun project I did for a very particular use case once.
+
+* References:
+
+Help I got along the way:
+
++ https://www.marsja.se/how-to-read-write-spss-files-in-python-pandas/
++ https://blog.datahut.co/scraping-amazon-reviews-python-scrapy/
++ https://github.com/scrapehero-code/amazon-review-scraper
++ https://github.com/dynamohuang/amazon-scrapy
++ https://www.oreilly.com/library/view/amazon-hacks/0596005423/ch03s05.html
++ https://stackoverflow.com/questions/31922875/throttle-a-function-call-in-python
